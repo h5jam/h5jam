@@ -25,4 +25,4 @@ I'm Seungoh Han  (@h5jam).
 - Algorithm ( Problem Solving)
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={blessmealways00})](https://solved.ac/{blessmealways00})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=blessmealways00)](https://solved.ac/blessmealways00)
