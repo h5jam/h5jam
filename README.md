@@ -16,7 +16,7 @@ Email : so.h4ns@gmail.com
 
 ### Current
 
-- Sophomore at Chungnam National University, South Korea.
+- Studying at Chungnam National University(B.S.), South Korea.
 
 
 
