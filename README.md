@@ -1,6 +1,6 @@
 ## Hello World !
 
-I'm Seungoh Han  (@h5jam). 
+I'm studying deep learning these days, and I'm interested in computer vision using deep learning. In my study, Python is main language, but also studying C++ because of powerful performance. Project proposals using Python are always welcome. Thank you!
 
 Email : so.h4ns@gmail.com 
 
@@ -14,13 +14,13 @@ Email : so.h4ns@gmail.com
 
 
 
-### Current
+### 👨‍💻 Currently..
 
 - Studying at Chungnam National University(B.S.), South Korea.
 
 
 
-### Interest
+### ⭐️ Interests..
 
 - Python
 - Computer Vision
