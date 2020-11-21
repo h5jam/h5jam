@@ -1,6 +1,9 @@
 ## Hello World !
 
-I'm studying deep learning these days, and I'm interested in computer vision using deep learning. In my study, Python is main language, but also studying C++ because of powerful performance. Project proposals using Python are always welcome. Thank you!
+I'm interested in computer vision using deep learning based on Python. These days, I usually study my major, and I study deep learning and algorithms in my spare time. I even read books. My plan is to admit to the graduate school majoring CS in 2023. 
+
+Project proposals using Python are always welcome. Thank you!
+
 
 Email : so.h4ns@gmail.com 
 
@@ -23,7 +26,8 @@ Email : so.h4ns@gmail.com
 ### ⭐️ Interests..
 
 - Python
+- Deep Learning
 - Computer Vision
-- Algorithm ( Problem Solving)
+- Algorithm
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=blessmealways00)](https://solved.ac/blessmealways00)
