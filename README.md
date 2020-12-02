@@ -1,9 +1,5 @@
 ## Hello World !
 
-I'm interested in computer vision using deep learning based on Python. These days, I usually study my major, and I study deep learning and algorithms in my spare time. I even read books. My plan is to admit to the graduate school majoring CS in 2023. 
-
-Project proposals using Python are always welcome. Thank you!
-
 
 Email : so.h4ns@gmail.com 
 
