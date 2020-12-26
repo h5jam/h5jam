@@ -18,12 +18,4 @@ Email : so.h4ns@gmail.com
 - Studying at Chungnam National University(B.E.), South Korea.
 
 
-
-### ⭐️ Interests..
-
-- Python
-- Deep Learning
-- Computer Vision
-- Algorithm
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=blessmealways00)](https://solved.ac/blessmealways00)
