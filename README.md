@@ -15,7 +15,9 @@ Email : so.h4ns@gmail.com
 
 ### 👨‍💻 Currently..
 
-- Studying at Chungnam National University(B.E.), South Korea.
+- Studying at CNU CSE, South Korea.
+- Undergraduate researcher at CNU EE Computer Vision & Image Processing Lab
+- Developer at CareConnect
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=blessmealways00)](https://solved.ac/blessmealways00)
