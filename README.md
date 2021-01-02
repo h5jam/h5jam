@@ -7,7 +7,7 @@ Email : so.h4ns@gmail.com
 
 
 
-![h5jam's github stats](https://github-readme-stats.vercel.app/api?username=h5jam&theme=vue&show_icons=true)
+![h5jam's github stats](https://github-readme-stats.vercel.app/api?username=h5jam&hide_border=true&show_icons=true)
 
 
 
