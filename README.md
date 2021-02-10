@@ -14,7 +14,7 @@ Email : so.h4ns@gmail.com
 ### 👨‍💻 Currently..
 
 - Studying at CNU CSE, South Korea.
-- Undergraduate researcher at CNU EE Computer Vision & Image Processing Lab
+- Undergraduate researcher at CNU EE Computer Vision & Image Processing Lab (advisor : Donghyun Cho) [Link](https://sites.google.com/view/cnu-cvip)
 - Developer at CareConnect
 
 
