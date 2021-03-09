@@ -15,7 +15,6 @@ Email : so.h4ns@gmail.com
 
 - Studying at CNU CSE, South Korea.
 - Undergraduate researcher at CNU EE Computer Vision & Image Processing Lab [Link](https://sites.google.com/view/cnu-cvip)
-- Developer at CareConnect
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=blessmealways00)](https://solved.ac/blessmealways00)
