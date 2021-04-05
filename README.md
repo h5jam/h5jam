@@ -1,7 +1,5 @@
 ## Hello World !
 
-My interesting field is Computer Vision. I'm preparing to admit graduate school at spring 2023. After that, I want to work as professional researching agent(전문연구요원)
-
 Email : so.h4ns@gmail.com 
 
 
