@@ -16,4 +16,4 @@ Email : so.h4ns@gmail.com
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=blessmealways00)](https://solved.ac/blessmealways00)
+![seungoh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=blessmealways00)
