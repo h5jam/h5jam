@@ -14,5 +14,3 @@ Email : so.h4ns@gmail.com
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=blessmealways00)](https://solved.ac/blessmealways00)
-
-[![CodeForces Profile](https://cf.leed.at?id=h5jam)](https://codeforces.com/profile/h5jam)
