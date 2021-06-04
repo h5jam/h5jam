@@ -8,10 +8,4 @@ Email : so.h4ns@gmail.com
 - Undergraduate researcher at CNU EE Computer Vision & Image Processing Lab [Link](https://sites.google.com/view/cnu-cvip)
 
 
-### 🔎 Interests
-
-- Computer Vision & Computer Graphics based on Deep Learning
-- Problem Solving
-
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=blessmealways00)](https://solved.ac/blessmealways00)
